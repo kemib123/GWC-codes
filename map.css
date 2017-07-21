@@ -1,0 +1,10 @@
+
+<div class="maps">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1aUHA4u8UwR84uWIwMdz70eY-3mU"width="512" height="384"></iframe>
+</div>
+
+.maps {
+    width: 512px;
+    display: block;
+    margin: 0 auto;
+}
