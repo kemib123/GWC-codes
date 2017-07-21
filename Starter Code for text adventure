@@ -1,0 +1,15 @@
+start = '''
+You just finished your wash day: 30 minute deep conditioner,applied that leave in conditioner
+'''
+
+
+print(start)
+
+
+print("Type 'bonnet' apply bonnet or 'leave it"sleep")
+user_input = input()
+if user_input == "sleep":
+    print("You decide to go left and...") # finished the story by writing what happens
+
+elif user_input == "right":
+    print("You choose to go right and ...") # finished the story writing what happens
